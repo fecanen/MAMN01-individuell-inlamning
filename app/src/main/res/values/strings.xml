@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="read_accelerometer">Read accelerator values</string>
+    <string name="start_compass_button">Start compass</string>
+</resources>
